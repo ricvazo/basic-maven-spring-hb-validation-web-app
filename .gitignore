@@ -1,3 +1,7 @@
+#ignore intellij project files
+.idea/
+*.iml
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
